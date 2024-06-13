@@ -10,6 +10,8 @@ The following is intended to remind everyone of which persons are banned from pa
   * Morgana
   * Twitch
   * Taliyah
+  * Hecarim
+    * 10 Games
 * Joseph
   * Jungle (only when no comms)
 * Mario
