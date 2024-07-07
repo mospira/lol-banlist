@@ -14,5 +14,3 @@ The following is intended to remind everyone of which persons are banned from pa
     * 10 Games
 * Joseph
   * Jungle (only when no comms)
-* Mario
-  * Support (only when I'm adc)
